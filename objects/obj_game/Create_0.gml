@@ -1,5 +1,5 @@
-global.blueScore = 9;
-global.redScore = 9;
+global.blueScore = 0;
+global.redScore = 0;
 global.lastBlueScore = 0;
 global.lastRedScore = 0;
 global.ballExists = false;
