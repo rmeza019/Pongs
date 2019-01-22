@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "ef00e556-aac4-4cfe-9320-1d95b971d2ac",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "b5c15195-0414-4f65-af64-a6300d24f591",
             "Value": {
                 "id": "92d1de83-4936-42d1-bddb-33a0c85f9126",
@@ -372,6 +380,22 @@
                 "id": "e1138d94-74ef-4d12-9b10-d384c34351fe",
                 "resourcePath": "sounds\\snd_bounce\\snd_bounce.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "d6133b40-7399-435f-807f-ce62736dc057",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7018e0f-e2d1-4e2e-9451-43898b2963f3",
+            "Value": {
+                "id": "56bdfd08-9b5c-4ec7-ab64-6c7c9b782175",
+                "resourcePath": "objects\\objPauseMenu\\objPauseMenu.yy",
+                "resourceType": "GMObject"
             }
         },
         {

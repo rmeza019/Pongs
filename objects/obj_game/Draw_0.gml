@@ -23,5 +23,10 @@ switch(room){
 		draw_set_font(f_Score);
 		draw_text_color(220,100,string(global.blueScore),global.colorB,global.colorB,global.colorB,global.colorB,1);
 		draw_text_color(675,100,string(global.redScore),global.colorR,global.colorR,global.colorR,global.colorR,1);
+		if (paused) {
+			draw_sprite_ext(screenShot, 0, 0, 0, 1, 1, 0, c_white, 1);
+			draw_set_color(global.colorB);
+			draw_text(450, 300, "Paused");
+		}
 		break;
 }
